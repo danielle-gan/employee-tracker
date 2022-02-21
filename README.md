@@ -25,13 +25,13 @@ WHEN I choose to update an employee role  <br>
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Installation
-![Initialization] (./asssets/images/initialize.png)
+![Initialization](./asssets/images/initialize.png)
 Clone the github repository and type in "node index" into your preferred terminal.
 
 ## Screenshots
-![Example] (./assets/images/example1.png)
-![Example2] (./assets/images/example2.png)
-![Example3] (./assets/images/example3.png)
+![Example](./assets/images/example1.png)
+![Example2](./assets/images/example2.png)
+![Example3](./assets/images/example3.png)
 
 ## Walkthrough Video
 https://watch.screencastify.com/v/ntOtrCp1ObqB8hlTq6W3 
