@@ -25,12 +25,12 @@ WHEN I choose to update an employee role  <br>
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Installation
-![Initialization](https://github.com/danielle-gan/employee-tracker/blob/main/assets/images/initialize.PNG)
+![Initialization](https://github.com/danielle-gan/employee-tracker/blob/main/assets/images/initialize.PNG) <br>
 Clone the github repository and type in "node index" into your preferred terminal.
 
 ## Screenshots
-![Example](https://github.com/danielle-gan/employee-tracker/blob/main/assets/images/example1.PNG)
-![Example2](https://github.com/danielle-gan/employee-tracker/blob/main/assets/images/example2.PNG)
+![Example](https://github.com/danielle-gan/employee-tracker/blob/main/assets/images/example1.PNG)  <br>
+![Example2](https://github.com/danielle-gan/employee-tracker/blob/main/assets/images/example2.PNG)  <br>
 ![Example3](https://github.com/danielle-gan/employee-tracker/blob/main/assets/images/example3.PNG)
 
 ## Walkthrough Video
